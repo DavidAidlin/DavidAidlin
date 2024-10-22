@@ -109,4 +109,3 @@ I'm **David Aidlin**, a **29-year-old DevOps Engineer** and **practical software
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=Ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-%23262575.svg?style=flat&logo=CentOS&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=Debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style
