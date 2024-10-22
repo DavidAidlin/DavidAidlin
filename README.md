@@ -15,7 +15,5 @@ Enhance system reliability and performance with monitoring and optimization
 
 Advanced Kubernetes orchestration
 DevSecOps practices
-📫 Let's connect!
+Let's connect! 📫
 
-💼 LinkedIn
-✍️ Blog
