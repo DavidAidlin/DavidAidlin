@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there! I'm David Aidlin, a 29-year-old DevOps Engineer passionate about building scalable, efficient, and automated infrastructure solutions. Currently, I'm honing my skills and driving innovation at Elbit Systems.
 
-<!--
-**DavidAidlin/DavidAidlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I do:
 
-Here are some ideas to get you started:
+Automate workflows and infrastructure provisioning using CI/CD tools (Jenkins, GitLab, etc.)
+Build and maintain cloud environments (AWS, Azure, GCP)
+Enhance system reliability and performance with monitoring and optimization
+🚀 Tech stack I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐳 Docker | Kubernetes | Terraform
+☁️ AWS | Azure | GCP
+🛠 Jenkins | Git | Ansible
+📊 Prometheus | Grafana
+🌱 Currently Learning:
+
+Advanced Kubernetes orchestration
+DevSecOps practices
+📫 Let's connect!
+
+💼 LinkedIn
+✍️ Blog
